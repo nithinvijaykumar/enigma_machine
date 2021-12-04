@@ -1,0 +1,25 @@
+html,
+body {
+	margin: 10;
+	padding: 0;
+}
+
+.creekysneeky {
+	border: 5px solid;
+	border-radius: 3em 13em/ 19em 12em;
+	margin: 25px 50px 75px 100px;
+	background-color: #00FFFF;
+	font-size: 35px;
+	height: 100px;
+	padding:10px;
+}
+
+.creeekysneeky {
+	border: 5px solid;
+	border-radius: 3em 13em/ 19em 12em;
+	margin: 25px 50px 75px 100px;
+	background-color: #FF0000;
+	font-size: 35px;
+	height: 100px;
+	padding:10px;
+}
