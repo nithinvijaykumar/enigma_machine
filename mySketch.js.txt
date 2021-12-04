@@ -1,3 +1,4 @@
+//p5.js used
 let encodeSeed = document.getElementById(encodeSeed);
 let encodeMessage = document.getElementById(encodeMessage);
 let encodedMessage = document.getElementById(encodedMessage);
